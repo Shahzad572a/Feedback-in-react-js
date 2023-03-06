@@ -81,6 +81,8 @@ transition: 0.3s;
 background-color: #ff6a95;
 color: #fff;
 }
+
+
 [type='radio']{
   opacity: 0;
 }

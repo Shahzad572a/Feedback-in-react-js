@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+input[type="radio"]:checked {
+  background-color: #ff6a95;
+  color:#fff;
+}
